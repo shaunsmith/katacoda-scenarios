@@ -1,1 +1,0 @@
-Create to support the live demo for the AIOUG Webinar Session on Cloud Native Application Development on Oracle Cloud Infrastructure
